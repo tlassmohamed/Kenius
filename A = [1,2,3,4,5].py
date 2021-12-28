@@ -9,3 +9,5 @@ def reoreo(A,B,C):
         if A[i] == B:
             A[i] = C
 print(A)            
+
+#i am commenting
